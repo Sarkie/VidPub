@@ -1,4 +1,5 @@
 <Modules>
   <Module PersistentId="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C" ModuleId="VidPub.Web" />
   <Module PersistentId="58934E99-55DE-40D8-A57D-2573F1F27D77" ModuleId="VidPub.Tests" />
+  <Module PersistentId="9BA5DE73-22EF-43FE-B11C-3C23DDC0C742" ModuleId="VidPub.Tasks" />
 </Modules>
