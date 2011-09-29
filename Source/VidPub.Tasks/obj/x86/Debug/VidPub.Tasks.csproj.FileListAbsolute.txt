@@ -1,0 +1,5 @@
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tasks\bin\Debug\VidPub.Tasks.exe
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tasks\bin\Debug\VidPub.Tasks.pdb
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tasks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tasks\obj\x86\Debug\VidPub.Tasks.exe
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tasks\obj\x86\Debug\VidPub.Tasks.pdb

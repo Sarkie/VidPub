@@ -1,0 +1,5 @@
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tests\bin\Debug\VidPub.Tests.dll
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tests\bin\Debug\VidPub.Tests.pdb
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tests\obj\Debug\VidPub.Tests.dll
+C:\Work\ExampleApps\VidPub\Source\VidPub.Tests\obj\Debug\VidPub.Tests.pdb
