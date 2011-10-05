@@ -1,8 +1,18 @@
 <Configuration>
   <RecentFiles>
     <RecentFiles>
-      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Controllers/f:HomeController.cs" caret="438" fromTop="20" />
-      <File id="58934E99-55DE-40D8-A57D-2573F1F27D77/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Account/f:Register.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Account/f:LogOn.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Account/f:ChangePasswordSuccess.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Account/f:ChangePassword.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Home/f:Index.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Home/f:About.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Shared/f:_Layout.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Shared/f:Error.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/d:Shared/f:_LogOnPartial.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Views/f:_ViewStart.cshtml" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:App_Start/f:NinjectMVC3.cs" caret="0" fromTop="0" />
+      <File id="6D9B0FAA-B86E-4F99-A2FF-8176081AF82C/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits />
   </RecentFiles>
@@ -21,7 +31,7 @@
     <string />
     <integer />
     <boolean>
-      <setting name="SolutionAnalysisEnabled">False</setting>
+      <setting name="SolutionAnalysisEnabled">True</setting>
     </boolean>
   </SettingsComponent>
 </Configuration>
